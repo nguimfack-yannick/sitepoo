@@ -1,0 +1,18 @@
+{
+    "name": "nguimfack/site-poo",
+    "autoload": {
+        "psr-4": {
+            "Nguimfack\\SitePoo\\": "src/",
+            "Router\\": "routes/",
+            "App\\": "app/",
+            "Database\\": "database"
+        }
+    },
+    "authors": [
+        {
+            "name": "nguimfack yannick",
+            "email": "yannickadonfack@gmail.com"
+        }
+    ],
+    "require": {}
+}
