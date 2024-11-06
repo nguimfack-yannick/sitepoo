@@ -5,7 +5,7 @@ use Database\DBConnection;
 use stdClass;
 
 abstract class Model{
-
+  // heritage
     protected $db;
     protected $table;
 
